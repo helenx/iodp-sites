@@ -2,7 +2,7 @@
 Update proposed, scheduled, and completed drilling sites using Python and output Excel files for KML conversion
 
 ## Instructions
-This notebook walks you through the process of updating 3 Excel files our office regularly updates:
+[site_updates_excel.ipynb](https://github.com/helenx/iodp-sites/blob/master/site_updates_excel.ipynb) walks you through the process of updating 3 Excel files our office regularly updates:
 
 - Proposed sites
 - Scheduled expeditions
